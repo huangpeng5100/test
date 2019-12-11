@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.taotao.service&apos; to &apos;com.taotao.content.service&apos;&#x0A;- Original project: &apos;taotao-content-interface&apos;&#x0A;- Original element: &apos;taotao-content-interface/src/main/java/com.taotao.service&apos;&#x0A;- Renamed element: &apos;taotao-content-interface/src/main/java/com.taotao.content.service&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.taotao.service&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java&lt;com.taotao.service" name="com.taotao.content.service" qualified="false" references="true" stamp="1503918497119" textual="false" version="1.0"/>
+</session>
